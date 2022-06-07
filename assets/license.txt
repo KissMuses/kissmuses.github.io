@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hohenecken castle, Germany
+* source:	https://sketchfab.com/3d-models/hohenecken-castle-germany-4b50b66585d1419da7aa9e6245962c33
+* author:	Archéomatique (https://sketchfab.com/archeomatique)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hohenecken castle, Germany" (https://sketchfab.com/3d-models/hohenecken-castle-germany-4b50b66585d1419da7aa9e6245962c33) by Archéomatique (https://sketchfab.com/archeomatique) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
