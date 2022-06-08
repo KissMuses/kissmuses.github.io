@@ -103,7 +103,7 @@
   "materials": [
     {
       "doubleSided": true,
-      "name": "Scene_-_Root",
+      "name": "Scene_Earth",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
