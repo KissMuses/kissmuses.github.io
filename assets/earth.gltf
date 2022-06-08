@@ -97,13 +97,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Scene_Earth_baseColor.jpg"
+      "uri": "textures/Scene_-_Root_baseColor.jpeg"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "name": "Scene_Earth",
+      "name": "Scene_-_Root",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
